@@ -19,7 +19,7 @@
 ---
 
 ### About Me :
-- 🔭: I am currently a student majoring in Software Engineering at FPT University in Ho Chi Minh City.
+- 🔭 I am currently a student majoring in Software Engineering at FPT University in Ho Chi Minh City.
 
 - 🔍 Aspirations:
   + Dedicated to honing skills in backend development and contributing to impactful projects.
