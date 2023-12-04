@@ -1,4 +1,4 @@
-### ĐÀO XUÂN QUÝ
+# ĐÀO XUÂN QUÝ
 
 👋 Welcome to my GitHub repository! I'm Dao Xuan Quy.
 
@@ -6,17 +6,10 @@
 
 <div align="center">
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   </div>
 
-  <div id="badges" align="center">
-    <a href="www.linkedin.com/in/xuân-quý">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="xquy118@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
+ 
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=psp-xuanquy&style=flat-square&color=blue" alt=""/>
@@ -38,7 +31,37 @@
     
 - 📚 Academic Background: Pursuing a Bachelor's degrees in Software Engineering at FPT University.
 
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/xuân-quý) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](xquy118@gmail.com)
+---
+
+### Languages & Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+</div>
+
+---
+
+### My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psp-xuanquy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### Social :
+You can find me at:
+- Email: xquy118@gmail.com.
+- GitHub: https://github.com/psp-xuanquy.
+- LinkedIn: www.linkedin.com/in/xuân-quý.
+
+Thank you.
+
+
 
 <!--
 **psp-xuanquy/psp-xuanquy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
