@@ -18,7 +18,7 @@
 
 ---
 
-### About Me :
+### About Me:
 - 🔭 I am currently a student majoring in Software Engineering at FPT University in Ho Chi Minh City.
 
 - 🔍 Aspirations:
@@ -33,7 +33,7 @@
 
 ---
 
-### Languages & Tools :
+### Languages & Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
@@ -48,16 +48,17 @@
 
 ---
 
-### My Stats :
+### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psp-xuanquy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
-### Social :
+### Social:
 You can find me at:
-- Email: xquy118@gmail.com.
-- GitHub: https://github.com/psp-xuanquy.
-- LinkedIn: www.linkedin.com/in/xuân-quý.
+- Email: [xquy118@gmail.com](mailto:xquy118@gmail.com)
+- GitHub: [GitHub Profile](https://github.com/psp-xuanquy)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/xuân-quý-ba00082a6)
+
 
 Thank you.
 
