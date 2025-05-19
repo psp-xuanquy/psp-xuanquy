@@ -56,7 +56,7 @@
 You can find me at:
 - Email: [xquy118@gmail.com](mailto:xquy118@gmail.com)
 - GitHub: [GitHub Profile](https://github.com/psp-xuanquy)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/xuân-quý-ba00082a6)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/xu%C3%A2n-qu%C3%BD-ba00082a6/)
 
 
 Thank you.
